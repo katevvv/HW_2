@@ -1,0 +1,9 @@
+check list structure
+1. build
+2. environment
+3. test date
+4. tester
+5. test type
+6. checking
+7. result
+
